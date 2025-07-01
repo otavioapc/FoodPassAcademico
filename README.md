@@ -40,13 +40,11 @@ O app funciona de forma segmentada por **perfil de usuário**:
 ### 👤 Funcionário
 - Acessa o app com login (Firebase)
 - Visualiza o saldo do benefício
-- Planeja seus gastos mensais
-- Realiza pagamentos via QR Code nos restaurantes parceiros
-- Encontra restaurantes no mapa com promoções ativas
+- Simula pagamentos via QR Code nos restaurantes parceiros
 
 ### 🍽️ Restaurante
 - Acessa o app com login (Firebase)
-- Cadastra seus pratos com foto, descrição e preço
+- Cadastra seus pratos com descrição e preço
 - Ativa ou desativa a flag de promoção para os pratos
 - Gerencia seu perfil (localização, horários de funcionamento)
 
