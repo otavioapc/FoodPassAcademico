@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1011348310736",
+    "project_id": "foodpass-dd7c2",
+    "storage_bucket": "foodpass-dd7c2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011348310736:android:b03bf3e029a0d2d979acd5",
+        "android_client_info": {
+          "package_name": "com.mycompany.foodpassacademico"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABHdOhjSUxav4onj5t3L0dfkRyKjyyZm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,19 @@
+// Export pages
+export '/restaurante_login/login_restaurante/login_restaurante_widget.dart'
+    show LoginRestauranteWidget;
+export '/restaurante_login/cadastrar_restaurante/cadastrar_restaurante_widget.dart'
+    show CadastrarRestauranteWidget;
+export '/restaurante_login/home_page_restaurante/home_page_restaurante_widget.dart'
+    show HomePageRestauranteWidget;
+export '/restaurante_pratos/cadastrar_prato/cadastrar_prato_widget.dart'
+    show CadastrarPratoWidget;
+export '/restaurante_pratos/listar_pratos/listar_pratos_widget.dart'
+    show ListarPratosWidget;
+export '/restaurante_pratos/info_pratos/info_pratos_widget.dart'
+    show InfoPratosWidget;
+export '/restaurante_pratos/atualizar_prato/atualizar_prato_widget.dart'
+    show AtualizarPratoWidget;
+export '/restaurante_perfil/editar_perfil_restaurante/editar_perfil_restaurante_widget.dart'
+    show EditarPerfilRestauranteWidget;
+export '/restaurante_perfil/info_restaurante/info_restaurante_widget.dart'
+    show InfoRestauranteWidget;
