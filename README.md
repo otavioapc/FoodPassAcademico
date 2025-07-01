@@ -12,11 +12,13 @@ O projeto surgiu a partir da observação de que o vale-refeição raramente dur
 
 ### 🖼️ Telas principais
 
-<img src="imagens/TelaLoginRestaurante.png" width="300"/>
-<img src="imagens/TelaHomePageRestaurante.png" width="300"/>
-<img src="imagens/TelaListaPratos.png" width="300"/>
-<img src="imagens/TelaSaldoFuncionario.png" width="300"/>
-<img src="imagens/TelaQrCode.png" width="300"/>
+<p align="center">
+  <img src="imagens/TelaLoginRestaurante.png" width="180"/>
+  <img src="imagens/TelaHomePageRestaurante.png" width="180"/>
+  <img src="imagens/TelaListaPratos.png" width="180"/>
+  <img src="imagens/TelaSaldoFuncionario.png" width="180"/>
+  <img src="imagens/TelaQrCode.png" width="180"/>
+</p>
 
 ---
 
