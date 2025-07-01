@@ -1,6 +1,6 @@
 # 🍽️ FOODPASS
 
-<img src="https://i.imgur.com/VB5W0Qo.png" alt="Logo FoodPass" width="250"/>
+<img src="imagens/logoFoodPass.png" alt="Logo FoodPass" width="250"/>
 
 ---
 
@@ -12,10 +12,11 @@ O projeto surgiu a partir da observação de que o vale-refeição raramente dur
 
 ### 🖼️ Telas principais
 
-> *(Inserir prints aqui depois que o app estiver rodando — por enquanto, exemplos de onde colocar)*
-
-<img src="screenshot1.png" width="300"/> <img src="screenshot2.png" width="300"/>  
-*Exemplo: Tela de login*               *Exemplo: Tela de saldo do funcionário*
+<img src="imagens/TelaLoginRestaurante.png" width="300"/>
+<img src="imagens/TelaHomePageRestaurante.png" width="300"/>
+<img src="imagens/TelaListaPratos.png" width="300"/>
+<img src="imagens/TelaSaldoFuncionario.png" width="300"/>
+<img src="imagens/TelaQrCode.png" width="300"/>
 
 ---
 
